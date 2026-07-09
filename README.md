@@ -35,9 +35,6 @@ This project simulates a small office network with two separate LANs connected t
 * Network Troubleshooting
 
 ---
-
-**Author:** Yahya Melad
-Aspiring Cybersecurity & Networking Professional
 ## Network Topology
 
 <img width="1917" height="1080" alt="Simple Network Project Screenshot" src="https://github.com/user-attachments/assets/f014bbb6-5c2b-4a55-8a3e-9ad1f7ebc3ae" />
@@ -98,3 +95,5 @@ The departments are:
 ### Topology
 <img width="1920" height="1080" alt="Simple Company Network Project " src="https://github.com/user-attachments/assets/a9304e7f-3d11-4e56-b158-7ef9fcd0d331" />
 
+**Author:** Yahya Melad
+Aspiring Cybersecurity & Networking Professional
