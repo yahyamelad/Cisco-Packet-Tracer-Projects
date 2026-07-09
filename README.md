@@ -40,6 +40,5 @@ This project simulates a small office network with two separate LANs connected t
 Aspiring Cybersecurity & Networking Professional
 ## Network Topology
 
-![Network Topology](Simple%20Network%20Project%20Screenshot.png)
 <img width="1917" height="1080" alt="Simple Network Project Screenshot" src="https://github.com/user-attachments/assets/f014bbb6-5c2b-4a55-8a3e-9ad1f7ebc3ae" />
 
