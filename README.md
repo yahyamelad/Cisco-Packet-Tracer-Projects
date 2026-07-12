@@ -95,5 +95,101 @@ The departments are:
 ### Topology
 <img width="1920" height="1080" alt="Simple Company Network Project " src="https://github.com/user-attachments/assets/a9304e7f-3d11-4e56-b158-7ef9fcd0d331" />
 
-**Author:** Yahya Melad
-Aspiring Cybersecurity & Networking Professional
+
+  # Vic Modern Hotel Network
+
+## Overview
+
+This project is a complete enterprise network designed and implemented in Cisco Packet Tracer for a three-floor hotel environment. The network provides secure, scalable, and reliable communication between multiple departments while applying industry-standard networking concepts.
+
+## Objectives
+
+* Design a multi-floor enterprise network
+* Segment departments using VLANs
+* Enable communication between VLANs
+* Implement dynamic routing using OSPF
+* Provide automatic IP addressing with DHCP
+* Configure secure remote management using SSH
+* Implement switch port security
+* Provide wireless connectivity for each floor
+
+## Network Architecture
+
+### Floor 1
+
+* Reception (VLAN 80)
+* Store (VLAN 70)
+* Logistics (VLAN 60)
+
+### Floor 2
+
+* Finance (VLAN 50)
+* HR (VLAN 40)
+* Sales & Marketing (VLAN 30)
+
+### Floor 3
+
+* IT (VLAN 10)
+* Admin (VLAN 20)
+
+Three Cisco routers are interconnected using serial links and exchange routes through OSPF. Each floor contains a managed switch connected using Router-on-a-Stick to provide inter-VLAN routing.
+
+## Technologies Used
+
+* Cisco Packet Tracer
+* VLANs
+* IEEE 802.1Q Trunking
+* Router-on-a-Stick
+* OSPF
+* DHCP
+* SSH
+* Port Security (Sticky MAC)
+* Wireless Networking
+* Serial WAN Links
+
+## Key Features
+
+* Enterprise network topology across three floors
+* Eight department VLANs
+* Dynamic routing using OSPF
+* Automatic IP assignment with DHCP
+* Secure SSH remote administration
+* Wireless access on every floor
+* Department printers
+* Sticky MAC Port Security in the IT department
+* Full end-to-end connectivity between all devices
+
+## Verification
+
+The completed network successfully demonstrates:
+
+* Inter-VLAN communication
+* Dynamic route advertisement using OSPF
+* Successful DHCP address allocation
+* SSH remote access to all routers
+* Wireless client connectivity
+* Port Security protecting the IT department
+* End-to-end connectivity across the entire enterprise network
+
+## Skills Demonstrated
+
+* Enterprise Network Design
+* IP Addressing & Subnetting
+* VLAN Configuration
+* Switching
+* Dynamic Routing
+* Network Security
+* Router Configuration
+* Troubleshooting
+* Cisco IOS
+
+## Author
+
+**Yahya Melad**
+
+Cisco Certified Support Technician (CCST) – Cybersecurity
+
+Aspiring Network Engineer & Cybersecurity Student
+<img width="1916" height="1080" alt="Screenshot 2026-07-12 082615" src="https://github.com/user-attachments/assets/4569e33b-7166-4cd4-9781-ca5b1011e5b4" />
+
+
